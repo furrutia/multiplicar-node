@@ -26,8 +26,6 @@ switch (comando.toUpperCase()) {
         break;
 }
 
-
-
 //let argv2 = process.argv;
 
 // let parametro = argv[2];
